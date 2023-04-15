@@ -1,0 +1,5 @@
+#print  ("Hello" +" " + "World" +"  " + "Sina" +"Good afternoon")
+#print('Sina Barbaz Esfahani')
+#a= input("What is your name")
+#print("Good morning"+ a)
+len("as")
